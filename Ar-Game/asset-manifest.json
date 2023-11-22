@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AR-Game/static/css/main.fd6ff0d1.css",
+    "main.js": "/AR-Game/static/js/main.39da736a.js",
+    "static/media/Game lauched alert new.png": "/AR-Game/static/media/Game lauched alert new.bbd79d54ae58e1e2e087.png",
+    "index.html": "/AR-Game/index.html",
+    "main.fd6ff0d1.css.map": "/AR-Game/static/css/main.fd6ff0d1.css.map",
+    "main.39da736a.js.map": "/AR-Game/static/js/main.39da736a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd6ff0d1.css",
+    "static/js/main.39da736a.js"
+  ]
+}

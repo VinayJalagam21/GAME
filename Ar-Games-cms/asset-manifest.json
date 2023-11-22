@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AR-Game-CMS/static/css/main.7053790c.css",
+    "main.js": "/AR-Game-CMS/static/js/main.c70180c4.js",
+    "static/js/787.ad126f72.chunk.js": "/AR-Game-CMS/static/js/787.ad126f72.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/AR-Game-CMS/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/bootstrap-icons.woff?": "/AR-Game-CMS/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/fontawesome-webfont.eot": "/AR-Game-CMS/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/AR-Game-CMS/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bootstrap-icons.woff2?": "/AR-Game-CMS/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/AR-Game-CMS/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/AR-Game-CMS/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Bubblegummers logo Smal.png": "/AR-Game-CMS/static/media/Bubblegummers logo Smal.1d76f27214b5a4ea5b9c.png",
+    "index.html": "/AR-Game-CMS/index.html",
+    "main.7053790c.css.map": "/AR-Game-CMS/static/css/main.7053790c.css.map",
+    "main.c70180c4.js.map": "/AR-Game-CMS/static/js/main.c70180c4.js.map",
+    "787.ad126f72.chunk.js.map": "/AR-Game-CMS/static/js/787.ad126f72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7053790c.css",
+    "static/js/main.c70180c4.js"
+  ]
+}
